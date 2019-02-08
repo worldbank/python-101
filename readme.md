@@ -15,4 +15,6 @@ The notebooks can be downloaded and run on your local machine using your Jupyter
 
 [1_Python_code_SOLUTION](https://colab.research.google.com/github.com/worldbank/python-101/blob/master/notebooks/1_Python_code_SOLUTION.ipynb)
 
+[2_Data science exercise](https://colab.research.google.com/github.com/worldbank/python-101/blob/master/notebooks/2_data_science_workflow.ipynb) 
+
 [3 Data science bonus](https://colab.research.google.com/github.com/worldbank/python-101/blob/master/notebooks/3_data_science_workflow_bonus.ipynb)
