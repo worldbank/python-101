@@ -9,8 +9,12 @@ This workshop was given at the World Bank on Data Day 2019. It aims to:
  
 The notebooks can be downloaded and run on your local machine using your Jupyter Notebooks installation (eg. Anaconda). But for the interactive session, we'll use Google Colab. Click below to launch in Colab:
 
-[0_Jupyter_and_Colab](https://colab.research.google.com/github/worldbank/python-101/blob/master/0_Jupyter_and_Colab.ipynb)
+[0_Jupyter_and_Colab](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/0_Jupyter_and_Colab.ipynb)
 
-[1_Python_code_EXERCISE](https://colab.research.google.com/github/worldbank/python-101/blob/master/1_Python_code_EXERCISE.ipynb)
+[1_Python_code_EXERCISE](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/1_Python_code_EXERCISE.ipynb)
 
-[1_Python_code_SOLUTION](https://colab.research.google.com/github.com/worldbank/python-101/blob/master/1_Python_code_SOLUTION.ipynb)
+[1_Python_code_SOLUTION](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/1_Python_code_SOLUTION.ipynb)
+
+[2_Data science exercise](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow.ipynb) 
+
+[3 Data science bonus](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/3_data_science_workflow_bonus.ipynb)
