@@ -17,4 +17,4 @@ The notebooks can be downloaded and run on your local machine using your Jupyter
 
 [2_Data science exercise](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow.ipynb) 
 
-[3 Data science bonus](https://colab.research.google.com/github.com/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_life_sat_vs_gdp.ipynb) 
+[3 Data science bonus](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_life_sat_vs_gdp.ipynb) 
