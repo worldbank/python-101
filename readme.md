@@ -11,7 +11,7 @@ The notebooks can be downloaded and run on your local machine using your Jupyter
 
 [0_Jupyter_and_Colab](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/0_Jupyter_and_Colab.ipynb)
 
-[1_Python_code_EXERCISE](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/1_Python_code_EXERCISE.ipynb)
+[1_Python_code_EXERCISE](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/1_Python_code_EXERCISES.ipynb)
 
 [1_Python_code_SOLUTION](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/1_Python_code_SOLUTION.ipynb)
 
