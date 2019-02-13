@@ -17,6 +17,6 @@ The notebooks can be downloaded and run on your local machine using your Jupyter
 
 [2 Data science workflow](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_final.ipynb)
 
-[3_Data science bonus: cellphone coverage](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_bonus_cellphone_coverage.ipynb) 
+[3_Data science bonus: cellphone coverage](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/OLD/3_data_science_workflow_bonus_cellphone_coverage.ipynb) 
 
  
