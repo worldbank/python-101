@@ -15,9 +15,9 @@ The notebooks can be downloaded and run on your local machine using your Jupyter
 
 [1_Python_code_SOLUTION](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/1_Python_code_SOLUTION.ipynb)
 
-[2 Data science workflow EXERCISE](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_final_EXERCISE.ipynb)
+[2_Data science workflow EXERCISE](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_final_EXERCISE.ipynb)
 
-[2 Data science workflow SOLUTION](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_SOLUTION.ipynb)
+[2_Data science workflow SOLUTION](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_SOLUTION.ipynb)
 
 [3_Data science bonus: cellphone coverage](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/3_data_science_workflow_bonus_cellphone_coverage.ipynb)
 
