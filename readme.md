@@ -19,4 +19,6 @@ The notebooks can be downloaded and run on your local machine using your Jupyter
 
 [2_Data science workflow SOLUTION](https://colab.research.google.com/github/worldbank/python-101/blob/master/notebooks/2_data_science_workflow_SOLUTION.ipynb)
 
- 
+ ## Slides and resources
+ [Slide deck](https://docs.google.com/presentation/d/15jv79PslMJ_hVTRVRNhHGB0FgTbRcxewqxnRIaAK6x4/edit?usp=sharing)
+ [Resources page](https://docs.google.com/document/d/1n1x7o-D4_qSZzdqQ85hI3sTJ8l6I1cb8S114z_rS66M/edit#)
